@@ -7,8 +7,7 @@ Link to data: https://drive.google.com/drive/folders/1n4Sen0zTCUROGi-sYwkJ7MbB6W
 ##Group
 1. data-cleaning-and-preprocessing.ipynb
 2. data-visualization.ipynb
- 
- [Independent] statistical-analysis-of-data.ipynb
+3. statistical-analysis-of-data.ipynb
 
 ##Group
 1. association-analysis-preprocessing.ipynb
